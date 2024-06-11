@@ -1,3 +1,3 @@
-#GitTestDrovosekova
+#gittest
 Текстовый репозиторий
 еще что-то
